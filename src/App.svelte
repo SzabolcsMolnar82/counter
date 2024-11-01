@@ -11,23 +11,28 @@
 <style>
   div {
     background-color: #5B676D;
-    border-radius: 30px
+    
   }
   .felx-gap {
     display: flex;
     gap: 10px;
+    border-radius: 30px;
+    padding: 20px
   }
   button {
     padding: 10px;
     text-align: center;
     font-family: 'Times New Roman', serif;
-    font-size:60px
+    font-size:60px;
+    border-radius: 30px;
+    
   }
   input {
     padding: 2px;
     text-align: center;
     font-family: 'Times New Roman', serif;
-    font-size:50px
+    font-size:50px;
+    border-radius: 30px
     
   }
 </style>
